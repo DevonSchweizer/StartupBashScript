@@ -1,0 +1,6 @@
+gedit
+firefox http://google.com
+firefox https://facstaff.bloomu.edu/dcoles/386/index.html
+scite
+
+
